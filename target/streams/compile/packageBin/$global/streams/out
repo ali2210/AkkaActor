@@ -1,0 +1,15 @@
+[info] Packaging E:\Ali Hassan\sdk\Akka\target\scala-2.12\akka_2.12-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	Koohinoor\Main$delayedInit$body.class
+[debug] 	  E:\Ali Hassan\sdk\Akka\target\scala-2.12\classes\Koohinoor\Main$delayedInit$body.class
+[debug] 	Koohinoor\HelloActor$$anonfun$receive$1.class
+[debug] 	  E:\Ali Hassan\sdk\Akka\target\scala-2.12\classes\Koohinoor\HelloActor$$anonfun$receive$1.class
+[debug] 	Koohinoor\Main$.class
+[debug] 	  E:\Ali Hassan\sdk\Akka\target\scala-2.12\classes\Koohinoor\Main$.class
+[debug] 	Koohinoor\HelloActor.class
+[debug] 	  E:\Ali Hassan\sdk\Akka\target\scala-2.12\classes\Koohinoor\HelloActor.class
+[debug] 	Koohinoor
+[debug] 	  E:\Ali Hassan\sdk\Akka\target\scala-2.12\classes\Koohinoor
+[debug] 	Koohinoor\Main.class
+[debug] 	  E:\Ali Hassan\sdk\Akka\target\scala-2.12\classes\Koohinoor\Main.class
+[info] Done packaging.
